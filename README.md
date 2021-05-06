@@ -1,4 +1,4 @@
-I am Praenyth but people call me Prae (mostly because they somehow get the pronounciation wrong and Prae is what I perfer anyways). I am trying to getting into modding Minecraft and creating plugins for the Spigot/Paper platform. I want to do things I would sorta consider fun for others so that's probably why my plugins/mods would probably be dumb ideas. I am learning Kotlin since I can definitely use Kotlin for things other than Minecraft mods/plugins and Kotlin is compatible for Spigot, Fabric, and Forge. Pretty much the 3 main server platforms for Minecraft.
+I am Praenyth but people call me Prae (mostly because they somehow get the pronounciation wrong and Prae is what I perfer anyways). I am currently trying to learn Java for some dumb ideas I have and I might get a developer job if I learn enough.
 
 # Fluent in: #
 (No programming languages yet)
