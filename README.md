@@ -4,9 +4,10 @@ I am Praenyth but people call me Prae (mostly because they somehow get the prono
 (No programming languages yet)
 
 # Currently Learning: #
-Kotlin 
+Java
+
+# Plan to Learn: #
+C#
 
 # Hardly Touched: #
-Java
-C#
-C++
+Kotlin
