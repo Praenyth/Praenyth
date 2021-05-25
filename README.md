@@ -7,10 +7,10 @@ My online alias is Praenyth or Payua but people call me Prae. I am currently try
 Kotlin
 
 # Plan to Learn:
-C# and C++
+C++
 
 # Not Interested in, But could learn
-HTML, CSS, and Javascript
+C#, HTML, CSS, and Javascript
 
 # Hardly Touched:
 Java
