@@ -6,8 +6,11 @@ My online alias is Praenyth or Payua but people call me Prae. I am currently try
 # Currently Learning: #
 Kotlin
 
+# Not Interested in, But Still Learning #
+HTML, CSS, and Javascript
+
 # Plan to Learn: #
 C# and C++
 
 # Hardly Touched: #
-Java, HTML, CSS, and JavaScript
+Java
