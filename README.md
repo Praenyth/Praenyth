@@ -1,13 +1,10 @@
-My online alias is Praenyth or Payua but people call me Prae. I am currently trying to learn Kotlin for some dumb ideas I have and I might get a developer job if I learn enough.
+My online alias is Praenyth but people call me Prae. I am doing programming as a hobby and I'd like to do some dumb stuff and maybe some actual useful stuff maybe, but most likely dumb stuff. :)
 
 # Fluent in:
 Kotlin
 
 # Currently Learning:
-C++
+
 
 # Plan to Learn:
 C++, C#
-
-# Not Interested in, But could learn
-HTML, CSS, and Javascript
