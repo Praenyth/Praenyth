@@ -3,8 +3,5 @@ My online alias is Praenyth but people call me Prae. I am doing programming as a
 # Fluent in:
 Kotlin
 
-# Currently Learning:
-
-
 # Plan to Learn:
 C++, C#
