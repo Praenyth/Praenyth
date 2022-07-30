@@ -1,1 +1,1 @@
-High school student; currently fluent in Java.
+High school student; currently learning Java
