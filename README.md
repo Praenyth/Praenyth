@@ -1,1 +1,4 @@
-High school student; currently relearning Java
+High school student
+--------------------
+Learned Java
+Learning Fabric Modding
