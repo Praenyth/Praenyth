@@ -1,4 +1,3 @@
 High school student
 --------------------
-Learned Java
-Learning Fabric Modding
+Learned Java - Learning Fabric Modding
