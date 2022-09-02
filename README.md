@@ -1,3 +1,3 @@
 High school student
 --------------------
-Learned Java - Learning Fabric Modding
+Fluent in Java - Currently learning Fabric Server Modding and Spigot Plugin Development
