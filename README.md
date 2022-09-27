@@ -1,4 +1,3 @@
-High school student
---------------------
-Fluent in Java -
-Currently learning Fabric Server Modding and Spigot Plugin Development
+# Hi!!!! I'm Praenyth (Prae for short)!!!!
+
+I'm mainly doing Java for Minecraft projects (mainly the silly ones)
