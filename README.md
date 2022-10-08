@@ -1,3 +1,4 @@
-# Hi!!!! I'm Praenyth (Prae for short)!!!!
+### Hello! I'm Praenyth! (Prae)
 
-I'm mainly doing Java for Minecraft projects (mainly the silly ones)
+- I currently only use Java for my stuffs
+- I really like modding minecraft, it is so fun
