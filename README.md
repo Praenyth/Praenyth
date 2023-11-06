@@ -14,5 +14,6 @@ I have done quite a bit of projects that I hope to have the time to continue:
 - [Prag](https://github.com/Praenyth/Prag) - An unfinished tag plugin I've worked on, with a wide range of settings and modes to keep the minigame replayable!
 - [Kamikaze](https://github.com/Praenyth/kamikaze) - Another little plugin I've developed for [Curesd](https://www.youtube.com/@Curesd_) that punishes players for killing others, by turning them into fireworks and exploding! :3
 - [Minecart Crashes](https://github.com/Praenyth/minecart-crashes-fabric) - The first ever mod I've publicly released properly, allowing for players to run over other players using minecarts and enough speed from powered rails. The mod also increases the speed of minecarts to allow for them to have actual use in the speed department, as regular minecarts aren't often used.
+- [Hide Item Frames](https://github.com/Praenyth/HideItemFrames) - A simple mod that allows players to toggle the visibility of item frames on keybind!
 
 ...and hopefully more to come! :3
